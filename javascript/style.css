@@ -7,14 +7,14 @@ body {
   height: 100vh;
   width: 100vw;
   overflow: hidden;
-  background: linear-gradient(to bottom right, #2deb59, #00fab4, #00b5ff);
+  background: linear-gradient(to bottom right, #e94d96, #2be03a, #e0d20e);
 }
 .container {
-  width: 1000px;
   height: 100vh;
-  margin: 100px auto;
+  margin: 200px 100px;
   text-align: center;
   font-family: sans-serif;
+  justify-content: center;
 }
 h1 {
   font-size: 40px;
